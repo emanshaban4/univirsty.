@@ -190,9 +190,9 @@ color: forestgreen;
   text-align: left;
  
 }
-.facilities-col img{  width: 100%;  display: block;
-   
-  border-radius: 30px;  
+.facilities-col img{  width: 80%;  display: block;
+   white-space:20px;
+  border-radius: 20px;  
 
 }
 .facilities-col p{
@@ -211,7 +211,7 @@ color: forestgreen;
 }
 
 .testimonials img{
-  width: 60%;
+  width: 80%;
   display: block; border-radius: 10%;
 }
 /*----call to action----*/
